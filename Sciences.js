@@ -3,7 +3,7 @@
 //
 
 // John Franklin
-// Open "Garden_of_Eden.html" with a browser to run program
+// Open "Sciences.html" with a browser to run program
 //
 // Vertex shader program----------------------------------
 var VSHADER_SOURCE = 
